@@ -9,3 +9,5 @@ install:
 - echo "This is install process"
 script:
 - echo "This is script process"
+notifications:
+  slack: dobestan:00CEyU7G03uaDthzsyDPwMSN
